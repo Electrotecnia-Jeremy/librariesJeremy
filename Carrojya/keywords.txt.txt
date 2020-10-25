@@ -1,0 +1,9 @@
+Carrojya KEYWORD1
+pines KEYWORD2
+adelante KEYWORD2
+atraz KEYWORD2
+derecha KEYWORD2
+izquierda KEYWORD2
+detener KEYWORD2
+sensor KEYWORD2
+zumo KEYWORD2
